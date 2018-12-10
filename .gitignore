@@ -1,0 +1,8 @@
+.vscode
+*.o
+client
+server
+lserver
+gserver
+result.txt
+position.txt
