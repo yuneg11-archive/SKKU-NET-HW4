@@ -1,0 +1,2 @@
+www.skku.com 112.24.11.19
+www.kaist.com 112.24.11.12

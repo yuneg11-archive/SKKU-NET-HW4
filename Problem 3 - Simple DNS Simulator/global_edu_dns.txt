@@ -1,0 +1,2 @@
+www.skku.edu 212.124.11.20
+www.seoul.edu 212.124.11.14
